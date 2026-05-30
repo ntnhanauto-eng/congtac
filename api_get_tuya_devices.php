@@ -15,13 +15,13 @@ $device_list = [
     [
         "id" => 1,
         "device_id" => "eb9530c1bda34fc126kdqn", 
-        "device_name" => "Cửa Sảnh Chính",
+        "device_name" => "Cửa phòng",
         "device_type" => "sensor"
     ],
     [
         "id" => 2,
         "device_id" => "eb5bd98332c838c398ovin",
-        "device_name" => "Đèn Bảng Hiệu",
+        "device_name" => "Đèn bếp",
         "device_type" => "switch"
     ]
 ];
