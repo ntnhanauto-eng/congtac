@@ -2,7 +2,7 @@
 // tuya_config.php
 define('TUYA_CLIENT_ID', 'qap98nweqkmufpdp5d3r');
 define('TUYA_SECRET', 'cb7684adc56045bdb5f77c1d7a541d48');
-define('TUYA_API_URL', 'https://openapi.tuyaus.com'); // Giữ nguyên nếu ở khu vực Châu Á/Mỹ
+define('TUYA_API_URL', 'https://openapi.tuyaus.com'); // Thay đổi vùng tùy tài khoản Tuya của bạn (us/eu/cn)
 
 function getTuyaToken() {
     $timestamp = time() * 1000;
